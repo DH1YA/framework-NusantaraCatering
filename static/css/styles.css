@@ -1,0 +1,76 @@
+/*** Navbar ***/
+.navbar-dark .navbar-nav .nav-link {
+  position: relative;
+  margin-left: 20px;
+  padding: 15px 0;
+  font-size: 15px;
+  color: #fff !important;
+  text-transform: uppercase;
+  font-weight: 500;
+  outline: none;
+  transition: color 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #ff5e57 !important;
+}
+
+.navbar-dark .navbar-brand {
+  font-weight: bold;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-dark .navbar-collapse {
+      margin-top: 15px;
+      border-top: 1px solid rgba(255, 255, 255, .1);
+  }
+  .navbar-dark .navbar-nav .nav-link {
+      padding: 10px 0;
+      margin-left: 0;
+  }
+}
+
+/*** Hero Header ***/
+.hero-header {
+  background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(' static/img/bg-hero.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh; /* Adjust height as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.hero-header h1 {
+  font-size: 3rem; /* Adjust size as needed */
+  margin-bottom: 20px;
+}
+
+.hero-header p {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: rgba(255, 255, 255, .5);
+}
+
+/*** Footer ***/
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.footer a {
+  color: #ff5e57;
+}
+
+.footer a:hover {
+  color: #ff3830;
+}
