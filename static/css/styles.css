@@ -74,3 +74,17 @@
 .footer a:hover {
   color: #ff3830;
 }
+
+
+.hero-section {
+    height: 60vh; /* Mengisi seluruh layar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 100px; /* Menambah jarak dengan navbar */
+}
+
+
+
