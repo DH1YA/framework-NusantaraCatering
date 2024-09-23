@@ -16,7 +16,7 @@ tipis tipis tes django
 ![alt text](strukturUser.png)
 ![alt text](strukturCart.png)
 ![alt text](strukturCartItem.png)
-![alt text](trukturMenu.png)
+![alt text](strukturMenu.png)
 
 ### Data seed
 ![alt text](dataUser.png)
