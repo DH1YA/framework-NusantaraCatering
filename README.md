@@ -3,6 +3,7 @@ AHMAD DHIY ULHAQI
 
 POSTTEST 1 
 
-![alt text]()
+tipis tipis tes django
+![alt text](WEB1.png)
 
-![alt text]()
+![alt text](WEB2.png)
