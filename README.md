@@ -23,3 +23,16 @@ tipis tipis tes django
 ![alt text](dataCart.png)
 ![alt text](dataCartItem.png)
 ![alt text](dataMenu.png)
+
+# POSTTEST 3
+### Django Admin
+![alt text](posttest3/adminCart_item.png.png)
+![alt text](posttest3/AdminCarts.png.png)
+![alt text](posttest3/AdminMenus.png.png)
+![alt text](posttest3/users.png.png)
+
+### Static
+penggunaan file image pada path static untuk icon {% static 'images/logo.png' %}.
+
+### action/custom function
+Penambahan fungsi save_model() pada model order, yang mana ketika model order ditambahkan maka akan menghapus item yang ada pada keranjang user.
