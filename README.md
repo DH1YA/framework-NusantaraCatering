@@ -26,10 +26,10 @@ tipis tipis tes django
 
 # POSTTEST 3
 ### Django Admin
-![alt text](posttest3/adminCart_item.png.png)
-![alt text](posttest3/AdminCarts.png.png)
-![alt text](posttest3/AdminMenus.png.png)
-![alt text](posttest3/users.png.png)
+![alt text](posttest3/adminCart_item.png)
+![alt text](posttest3/AdminCarts.png)
+![alt text](posttest3/AdminMenus.png)
+![alt text](posttest3/users.png)
 
 ### Static
 penggunaan file image pada path static untuk icon {% static 'images/logo.png' %}.
